@@ -42,7 +42,7 @@ public class Employee {
 	}
 	
 	public int raiseSalary(int percent) {
-		salary = salary * percent;
+		salary = salary + salary*percent;
 		return salary;
 	}
 	
