@@ -1,4 +1,5 @@
 # r201-tp-doo : squelette de structure vide pour TP R2.01 DOO Java
+## Par Baurens-Torrente Valentin G3A
 
 Noter :
 - la présence du fichier caché <code>.gitignore</code>, qui liste les fichiers que Git NE doit PAS versionner. 
